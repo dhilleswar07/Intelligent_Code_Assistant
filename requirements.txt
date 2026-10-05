@@ -1,0 +1,8 @@
+streamlit
+groq
+python-dotenv
+sentence-transformers
+faiss-cpu
+rank-bm25
+flashrank
+numpy
